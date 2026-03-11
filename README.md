@@ -54,6 +54,12 @@ https://github.com/Deeksh870/smart-cab-booking-platform
 
 ---
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Deeksh870/Deeksh870-snake/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Deekshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deeksh870&show_icons=true&theme=tokyonight)
