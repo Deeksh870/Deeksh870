@@ -30,3 +30,32 @@ https://github.com/Deeksh870/smart-cab-booking-platform
 - Stripe
 - Leaflet Maps
 - PostgreSQL
+
+---
+
+## 🧰 Tools & Technologies
+
+- Git
+- GitHub
+- VS Code
+- Next.js
+- TypeScript
+- Supabase
+- Stripe
+- OpenStreetMap
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Full Stack Development
+- System Design Basics
+- Backend Architecture
+
+---
+
+## 📊 GitHub Stats
+
+![Deekshitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deeksh870&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeksh870&layout=compact&theme=tokyonight)
