@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Deekshitha 👋
 
-<!--
-**Deeksh870/Deeksh870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Web Developer  
+🎓 Computer Science Student  
+🌍 Aspiring to pursue Master's in Germany  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Project
+
+### Smart Cab Booking Platform
+A full-stack ride-hailing platform inspired by Uber.
+
+Features:
+- Rider and Driver dashboards
+- Map routing using OpenStreetMap
+- Distance based fare calculation
+- Stripe payment integration
+- SOS emergency feature
+
+🔗 Project Repository  
+https://github.com/Deeksh870/smart-cab-booking-platform
+
+---
+
+## 🛠 Tech Stack
+- Next.js
+- TypeScript
+- Supabase
+- Stripe
+- Leaflet Maps
+- PostgreSQL
