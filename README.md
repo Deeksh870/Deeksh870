@@ -29,7 +29,6 @@
 name       : Deekshitha
 role       : Full Stack Web Developer
 education  : Computer Science Student
-goal       : Master's in Germany 🇩🇪
 focus      : Building real-world, production-grade apps
 status     : Always learning, always shipping 🚀
 ```
