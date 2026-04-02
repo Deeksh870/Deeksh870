@@ -5,7 +5,7 @@
 ║  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  ║
 ║  ┃     👩‍💻  H I ,  I ' M  D E E K S H I T H A  ┃  ║
 ║  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  ║
-║     💻 Full Stack  ·  🎓 CS Student  ·  🌍 Germany-bound     ║
+║            💻 Full Stack  ·  🎓 CS Student                   ║
 ╚══════════════════════════════════════════════╝
 ```
 
@@ -35,11 +35,11 @@ status     : Always learning, always shipping 🚀
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
 ### 🚕 Smart Cab Booking Platform
 > *A full-stack ride-hailing platform inspired by Uber*
@@ -53,6 +53,24 @@ status     : Always learning, always shipping 🚀
 | 🆘 Safety | SOS Emergency Feature |
 
 [![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deeksh870/smart-cab-booking-platform)
+
+</td>
+<td width="50%">
+
+### 🎓 Mentorship Platform
+> *Real-time 1-on-1 mentorship — Zoom + VS Code + Slack in one*
+
+| Feature | Detail |
+|:---|:---|
+| 🧑‍💻 Code Editor | Monaco — live synced |
+| 🎥 Video Calls | WebRTC peer-to-peer |
+| 💬 Chat | Typing indicators + reactions |
+| ⚡ Code Execution | JS & Python in-browser |
+| 👥 Roles | Mentor / Student sessions |
+
+[![View Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deeksh870/mentorship-platform)
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://mentorship-platform-three.vercel.app)
 
 </td>
 </tr>
